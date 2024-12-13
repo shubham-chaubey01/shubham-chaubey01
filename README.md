@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham chaubey
-- 👀 I’m interested in ...Android development
+- 👀 I’m interested in ...Android development.
 - 🌱 I’m currently learning ...React native.
 - 💞️ I’m looking to collaborate on ...open-source libraries/tools.
 - 📫 How to reach me:  Email: sc0122757@gmail.com
