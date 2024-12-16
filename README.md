@@ -7,7 +7,7 @@
   - Twitter: @ShubhamCha67112
   - - 😄 Pronouns: He/him
       
-- ⚡ Fun fact: I’m passionate about creating apps that solve real-world problems and love experimenting with new technologies
+- ⚡ Fun fact: I’m passionate about creating apps that solve real-world problems and love experimenting with new technologies.
 
 <!---
 shubham-chaubey01/shubham-chaubey01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
